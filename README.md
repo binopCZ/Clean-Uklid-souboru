@@ -1,4 +1,4 @@
-# Clean-Uklid-soubrou-
+# Clean-Uklid-soubory-
 
 
 Uklidí soubory do složek 
